@@ -4,13 +4,7 @@ This is a machine learning web app that predicts house prices based on area, siz
 
 ### 🔗 Project Link
 - Localhost (Run using `python app.py`): http://127.0.0.1:4000
-- Deployed Version: # 🏠 House Price Prediction Web App
-
-This is a machine learning web app that predicts house prices based on area, size, number of rooms, and house type.
-
-### 🔗 Project Link
-- Localhost (Run using `python app.py`): http://127.0.0.1:5000
-- Deployed Version : https://house-price-webapp-4.onrender.com/predict
+- Deployed Version : https://house-price-webapp-4.onrender.com
 ---
 
 ### 🧠 How It Works
