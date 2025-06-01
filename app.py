@@ -22,5 +22,5 @@ def predict():
     return render_template('index.html', prediction_text=f'Estimated Price: ₹{prediction:.2f} lakhs')
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=10000)
+    app.run(host='0.0.0.0', port=4000)
 
