@@ -1,8 +1,11 @@
 services:
   - type: web
-    name: house-price-app
+    name: house-price-predictor
     env: python
-    plan: free
     buildCommand: ""
-    startCommand: python app.py
+    startCommand: "python app.py"
+    envVars:
+      - key: PORT
+        value: 10000
+
 
